@@ -134,3 +134,4 @@ dmypy.json
 # Input data
 */data/*.csv
 */data/images/*/*.jpg
+*/clean_data/*.csv
